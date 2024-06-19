@@ -32,7 +32,7 @@ This program generates a random password with a specified length and a combinati
    go run passwordgen.go
    ```
 
-4. The generated password will be printed to the console.
+4. The generated password will be printed into the console.
 
 ## Customization
 
